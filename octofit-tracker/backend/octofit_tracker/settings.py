@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-0z84ug3i_k*bbr8joq!pekp8pu_@d1z!i!0%r(!4@p6rjuw(*#
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'verbose-space-robot-w6xj797rwjpc5qp6-8000.app.github.dev']
 
 
 # Application definition
